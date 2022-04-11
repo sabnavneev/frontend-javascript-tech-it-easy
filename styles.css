@@ -1,0 +1,18 @@
+body {
+    font-size: 20px;
+}
+
+#id-sold {
+     color: green;
+     font-weight: bold;
+}
+
+#id-original-stock {
+    color: blue;
+    font-weight: bold;
+}
+
+#id-stock {
+    color: red;
+    font-weight: bold;
+}
